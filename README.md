@@ -2,9 +2,9 @@
  ## (زكاة العلم نشره) 
 هذا المشروع مثال على تطبيق الاختبار ل web & api وسوف اقوم بذكر المكتبات المستخدمة و الفريم ورك و لغة البرمجة و اعلم ان المشروع بحاجة الى التحسين وسوف أسعى لذلك فى القادم ان شاء الله 
 
-"php"                                 : "^8.2",\n
-"laravel/framework"                   : "^11.0",
-"mcamara/laravel-localization"        : "^2.0",
-"astrotomic/laravel-translatable"     : "^11.13",
-"tymon/jwt-auth"                      : "^2.1"
+##### "php"                                 : "^8.2",
+##### "laravel/framework"                   : "^11.0",
+##### "mcamara/laravel-localization"        : "^2.0",
+##### "astrotomic/laravel-translatable"     : "^11.13",
+##### "tymon/jwt-auth"                      : "^2.1"
 
